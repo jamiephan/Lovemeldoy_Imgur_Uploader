@@ -271,7 +271,6 @@ Partial Class Form1
         'GroupBox2
         '
         Me.GroupBox2.Controls.Add(Me.LinkLabel1)
-        Me.GroupBox2.Controls.Add(Me.lblFool)
         Me.GroupBox2.Controls.Add(Me.txtboxCustomClientID)
         Me.GroupBox2.Location = New System.Drawing.Point(546, 88)
         Me.GroupBox2.Name = "GroupBox2"
@@ -296,7 +295,7 @@ Partial Class Form1
         Me.lblFool.AutoSize = True
         Me.lblFool.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.lblFool.Font = New System.Drawing.Font("PMingLiU", 72.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.lblFool.Location = New System.Drawing.Point(-445, -29)
+        Me.lblFool.Location = New System.Drawing.Point(17, 140)
         Me.lblFool.Name = "lblFool"
         Me.lblFool.Size = New System.Drawing.Size(799, 96)
         Me.lblFool.TabIndex = 24
@@ -583,6 +582,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1069, 449)
+        Me.Controls.Add(Me.lblFool)
         Me.Controls.Add(Me.LinkLabel2)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.comboxLang)
