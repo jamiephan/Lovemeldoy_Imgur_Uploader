@@ -1,0 +1,10 @@
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\imgurAPI.vbproj.GenerateResource.Cache
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.exe.config
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.exe
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.pdb
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.xml
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.Form1.resources
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.Resources.resources
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.exe
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.xml
+d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.pdb
