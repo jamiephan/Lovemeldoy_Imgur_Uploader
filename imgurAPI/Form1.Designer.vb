@@ -111,7 +111,7 @@ Partial Class Form1
         Me.GetScreenshot.Location = New System.Drawing.Point(546, 422)
         Me.GetScreenshot.Name = "GetScreenshot"
         Me.GetScreenshot.Size = New System.Drawing.Size(515, 21)
-        Me.GetScreenshot.TabIndex = 3
+        Me.GetScreenshot.TabIndex = 17
         Me.GetScreenshot.Text = "Useless button....Good children don't Press it :)"
         Me.GetScreenshot.UseVisualStyleBackColor = True
         '
@@ -130,7 +130,7 @@ Partial Class Form1
         Me.btnOpen.Location = New System.Drawing.Point(437, 9)
         Me.btnOpen.Name = "btnOpen"
         Me.btnOpen.Size = New System.Drawing.Size(92, 23)
-        Me.btnOpen.TabIndex = 5
+        Me.btnOpen.TabIndex = 0
         Me.btnOpen.Text = "Open Image"
         Me.btnOpen.UseVisualStyleBackColor = True
         '
@@ -210,7 +210,7 @@ Partial Class Form1
         Me.btnLookProxy.Location = New System.Drawing.Point(305, 17)
         Me.btnLookProxy.Name = "btnLookProxy"
         Me.btnLookProxy.Size = New System.Drawing.Size(195, 21)
-        Me.btnLookProxy.TabIndex = 16
+        Me.btnLookProxy.TabIndex = 11
         Me.btnLookProxy.Text = "Look up Proxy Settings [LAN Settings]"
         Me.btnLookProxy.UseVisualStyleBackColor = True
         '
@@ -230,7 +230,7 @@ Partial Class Form1
         Me.txtboxProxyPassword.Name = "txtboxProxyPassword"
         Me.txtboxProxyPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.txtboxProxyPassword.Size = New System.Drawing.Size(100, 22)
-        Me.txtboxProxyPassword.TabIndex = 14
+        Me.txtboxProxyPassword.TabIndex = 10
         '
         'Label1
         '
@@ -264,7 +264,7 @@ Partial Class Form1
         Me.btnPreview.Location = New System.Drawing.Point(402, 34)
         Me.btnPreview.Name = "btnPreview"
         Me.btnPreview.Size = New System.Drawing.Size(107, 21)
-        Me.btnPreview.TabIndex = 16
+        Me.btnPreview.TabIndex = 3
         Me.btnPreview.Text = "Preview in Browser"
         Me.btnPreview.UseVisualStyleBackColor = True
         '
@@ -293,9 +293,11 @@ Partial Class Form1
         'lblFool
         '
         Me.lblFool.AutoSize = True
+        Me.lblFool.BackColor = System.Drawing.Color.Yellow
         Me.lblFool.FlatStyle = System.Windows.Forms.FlatStyle.System
         Me.lblFool.Font = New System.Drawing.Font("PMingLiU", 72.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(136, Byte))
-        Me.lblFool.Location = New System.Drawing.Point(17, 140)
+        Me.lblFool.ForeColor = System.Drawing.Color.Red
+        Me.lblFool.Location = New System.Drawing.Point(17, 147)
         Me.lblFool.Name = "lblFool"
         Me.lblFool.Size = New System.Drawing.Size(799, 96)
         Me.lblFool.TabIndex = 24
@@ -307,7 +309,7 @@ Partial Class Form1
         Me.txtboxCustomClientID.Location = New System.Drawing.Point(9, 18)
         Me.txtboxCustomClientID.Name = "txtboxCustomClientID"
         Me.txtboxCustomClientID.Size = New System.Drawing.Size(402, 22)
-        Me.txtboxCustomClientID.TabIndex = 0
+        Me.txtboxCustomClientID.TabIndex = 12
         '
         'GroupBox3
         '
@@ -335,7 +337,7 @@ Partial Class Form1
         Me.btnAdvanceClose.Location = New System.Drawing.Point(437, 422)
         Me.btnAdvanceClose.Name = "btnAdvanceClose"
         Me.btnAdvanceClose.Size = New System.Drawing.Size(92, 21)
-        Me.btnAdvanceClose.TabIndex = 19
+        Me.btnAdvanceClose.TabIndex = 6
         Me.btnAdvanceClose.Text = "Advance <<<"
         Me.btnAdvanceClose.UseVisualStyleBackColor = True
         Me.btnAdvanceClose.Visible = False
@@ -483,7 +485,7 @@ Partial Class Form1
         Me.TextBox1.Location = New System.Drawing.Point(209, 79)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(100, 22)
-        Me.TextBox1.TabIndex = 7
+        Me.TextBox1.TabIndex = 16
         '
         'Label10
         '
@@ -508,7 +510,7 @@ Partial Class Form1
         Me.ButtonMinus.Location = New System.Drawing.Point(483, 21)
         Me.ButtonMinus.Name = "ButtonMinus"
         Me.ButtonMinus.Size = New System.Drawing.Size(25, 25)
-        Me.ButtonMinus.TabIndex = 4
+        Me.ButtonMinus.TabIndex = 14
         Me.ButtonMinus.Text = "-"
         Me.ButtonMinus.UseVisualStyleBackColor = True
         '
@@ -517,7 +519,7 @@ Partial Class Form1
         Me.ButtonPlus.Location = New System.Drawing.Point(9, 21)
         Me.ButtonPlus.Name = "ButtonPlus"
         Me.ButtonPlus.Size = New System.Drawing.Size(25, 25)
-        Me.ButtonPlus.TabIndex = 3
+        Me.ButtonPlus.TabIndex = 13
         Me.ButtonPlus.Text = "+"
         Me.ButtonPlus.UseVisualStyleBackColor = True
         '
@@ -544,7 +546,7 @@ Partial Class Form1
         Me.chbProgramTopMost.Location = New System.Drawing.Point(9, 81)
         Me.chbProgramTopMost.Name = "chbProgramTopMost"
         Me.chbProgramTopMost.Size = New System.Drawing.Size(118, 16)
-        Me.chbProgramTopMost.TabIndex = 0
+        Me.chbProgramTopMost.TabIndex = 15
         Me.chbProgramTopMost.Text = "Program stay on top"
         Me.chbProgramTopMost.UseVisualStyleBackColor = True
         '
@@ -555,7 +557,7 @@ Partial Class Form1
         Me.comboxLang.Location = New System.Drawing.Point(310, 422)
         Me.comboxLang.Name = "comboxLang"
         Me.comboxLang.Size = New System.Drawing.Size(121, 20)
-        Me.comboxLang.TabIndex = 21
+        Me.comboxLang.TabIndex = 5
         Me.comboxLang.Text = "繁體中文"
         '
         'Label8
@@ -573,7 +575,7 @@ Partial Class Form1
         Me.LinkLabel2.Location = New System.Drawing.Point(111, 426)
         Me.LinkLabel2.Name = "LinkLabel2"
         Me.LinkLabel2.Size = New System.Drawing.Size(64, 12)
-        Me.LinkLabel2.TabIndex = 23
+        Me.LinkLabel2.TabIndex = 4
         Me.LinkLabel2.TabStop = True
         Me.LinkLabel2.Text = "Lovemelody"
         '
@@ -582,8 +584,8 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1069, 449)
-        Me.Controls.Add(Me.lblFool)
         Me.Controls.Add(Me.LinkLabel2)
+        Me.Controls.Add(Me.lblFool)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.comboxLang)
         Me.Controls.Add(Me.GroupBox4)

@@ -25,7 +25,7 @@ Public Class Form1
     Private Sub btnOpen_Click(sender As Object, e As EventArgs) Handles btnOpen.Click
         Try
             Using ofd As New OpenFileDialog
-                ofd.Filter = "LLovemelody's Image Files|*.jpg;*.jpeg;*.png;*.gif;*.bmp;*.apng;*.tiff;*.pdf;*.xcf;*.gimp"
+                ofd.Filter = "Lovemelody's Image Files|*.jpg;*.jpeg;*.png;*.gif;*.bmp;*.apng;*.tiff;*.pdf;*.xcf;*.gimp"
                 ofd.Title = "Select File"
 
                 If ofd.ShowDialog() = Windows.Forms.DialogResult.OK Then

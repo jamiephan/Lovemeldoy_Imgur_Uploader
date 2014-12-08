@@ -8,13 +8,3 @@ d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Relea
 d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.exe
 d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.xml
 d:\Users\Jamie\documents\visual studio 2013\Projects\imgurAPI\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.pdb
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.exe.config
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.exe
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.xml
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.pdb
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.exe
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.pdb
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\bin\Release\Lovemeldoy_Imgur_Uploader.xml
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.Form1.resources
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\obj\Release\Lovemeldoy_Imgur_Uploader.Resources.resources
-D:\GitHub\Lovemeldoy_Imgur_Uploader\imgurAPI\obj\Release\imgurAPI.vbproj.GenerateResource.Cache
